@@ -1,0 +1,26 @@
+.ball {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 5px;
+    float: left;
+    background-color: green;
+}
+
+#go {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 17px;
+}
+
+#inputContainer {
+    width: 180px;
+}
+
+#input {
+    width: 180px;
+}
+
+body {
+    margin-top: 100px;
+}
